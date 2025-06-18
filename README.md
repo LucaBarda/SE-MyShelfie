@@ -13,7 +13,7 @@ Implementing an online version of the board game "My Shelfie".
 - Graphical user interface (GUI)
   
 Clients can also decide whether to communicate with the server using socket or RMI as communication techonology during the game. Players in the same game are also allowed to chat with each other.
-The application is based on the Model View Controller (MVC) design pattern. The communication protocol being used and the UML diagrams can be found in the deliverables folder.
+The application is based on the Model View Controller (MVC) design pattern. The communication protocol being used and the UML diagrams can be found in the deliverables/ folder.
 
 ## How to run the application
 ### Run the server
