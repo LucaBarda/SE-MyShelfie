@@ -1,6 +1,6 @@
 # MyShelfie
 
-Application developed as part of the course "Software Engineering" @ Politecnico di Milano.
+Application developed as part of the Software Engineering course @ Politecnico di Milano.
 
 ## Goal
 Implementing an online version of the board game "My Shelfie".
@@ -39,14 +39,13 @@ java -jar AM11.jar --server
 java -jar AM11.jar --client --tui
 ```
 
+### Run a GUI client
+```bat
+java -jar AM11.jar --client --gui
+```
 
 ### Students
 - [Simone Bevilacqua](https://github.com/simobevilacqua25)
 - [Raffaele Chiaverini](https://github.com/ChiaveriniRaffaele)
 - [Luca Barda](https://github.com/LucaBardaPoli)
 - [Michael Alibeaj](https://github.com/MikeTech01)
-
-### Run a GUI client
-```bat
-java -jar AM11.jar --client --gui
-```
